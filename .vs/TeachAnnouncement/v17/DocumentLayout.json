@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learns\\2019\\TeachAnnouncement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|d:\\learns\\2019\\teachannouncement\\teachannouncement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|solutionrelative:teachannouncement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|d:\\learns\\2019\\teachannouncement\\teachannouncement\\views\\admanno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|solutionrelative:teachannouncement\\views\\admanno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|d:\\learns\\2019\\teachannouncement\\teachannouncement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|solutionrelative:teachannouncement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|d:\\learns\\2019\\teachannouncement\\teachannouncement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|solutionrelative:teachannouncement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|d:\\learns\\2019\\teachannouncement\\teachannouncement\\controllers\\admannocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|solutionrelative:teachannouncement\\controllers\\admannocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9C2938-29DE-4DE4-9F13-7672B435E4E5}|ProjectLibrary\\ProjectLibrary.csproj|d:\\learns\\2019\\teachannouncement\\projectlibrary\\db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9C2938-29DE-4DE4-9F13-7672B435E4E5}|ProjectLibrary\\ProjectLibrary.csproj|solutionrelative:projectlibrary\\db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|d:\\learns\\2019\\teachannouncement\\teachannouncement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|solutionrelative:teachannouncement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|d:\\learns\\2019\\teachannouncement\\teachannouncement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|solutionrelative:teachannouncement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|d:\\learns\\2019\\teachannouncement\\teachannouncement\\models\\admannoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|solutionrelative:teachannouncement\\models\\admannoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|d:\\learns\\2019\\teachannouncement\\teachannouncement\\business\\busannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|solutionrelative:teachannouncement\\business\\busannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|d:\\learns\\2019\\teachannouncement\\teachannouncement\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|solutionrelative:teachannouncement\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9C2938-29DE-4DE4-9F13-7672B435E4E5}|ProjectLibrary\\ProjectLibrary.csproj|d:\\learns\\2019\\teachannouncement\\projectlibrary\\db\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9C2938-29DE-4DE4-9F13-7672B435E4E5}|ProjectLibrary\\ProjectLibrary.csproj|solutionrelative:projectlibrary\\db\\dbconn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D9C2938-29DE-4DE4-9F13-7672B435E4E5}|ProjectLibrary\\ProjectLibrary.csproj|d:\\learns\\2019\\teachannouncement\\projectlibrary\\base\\businessbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D9C2938-29DE-4DE4-9F13-7672B435E4E5}|ProjectLibrary\\ProjectLibrary.csproj|solutionrelative:projectlibrary\\base\\businessbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|d:\\learns\\2019\\teachannouncement\\teachannouncement\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8387DD49-ECFC-4489-A1BA-9234835DED23}|TeachAnnouncement\\TeachAnnouncement.csproj|solutionrelative:teachannouncement\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeachAnnouncement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TeachAnnouncement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T08:01:57.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TeachAnnouncement\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TeachAnnouncement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-19T08:01:34.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdmAnnoController.cs",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Controllers\\AdmAnnoController.cs",
+              "RelativeDocumentMoniker": "TeachAnnouncement\\Controllers\\AdmAnnoController.cs",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Controllers\\AdmAnnoController.cs",
+              "RelativeToolTip": "TeachAnnouncement\\Controllers\\AdmAnnoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T08:01:12.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Views\\AdmAnno\\Index.cshtml",
+              "RelativeDocumentMoniker": "TeachAnnouncement\\Views\\AdmAnno\\Index.cshtml",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Views\\AdmAnno\\Index.cshtml",
+              "RelativeToolTip": "TeachAnnouncement\\Views\\AdmAnno\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T08:00:59.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TeachAnnouncement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TeachAnnouncement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T07:53:06.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BusAnnouncement.cs",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Business\\BusAnnouncement.cs",
+              "RelativeDocumentMoniker": "TeachAnnouncement\\Business\\BusAnnouncement.cs",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Business\\BusAnnouncement.cs",
+              "RelativeToolTip": "TeachAnnouncement\\Business\\BusAnnouncement.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwHcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:52:42.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "TeachAnnouncement\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "TeachAnnouncement\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:52:29.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\appsettings.json",
+              "RelativeDocumentMoniker": "TeachAnnouncement\\appsettings.json",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\appsettings.json",
+              "RelativeToolTip": "TeachAnnouncement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-19T07:50:21.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Program.cs",
+              "RelativeDocumentMoniker": "TeachAnnouncement\\Program.cs",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Program.cs",
+              "RelativeToolTip": "TeachAnnouncement\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:54:44.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\ProjectLibrary\\DB\\DBManager.cs",
+              "RelativeDocumentMoniker": "ProjectLibrary\\DB\\DBManager.cs",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\ProjectLibrary\\DB\\DBManager.cs",
+              "RelativeToolTip": "ProjectLibrary\\DB\\DBManager.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAlwHoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:52:11.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DBConn.cs",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\ProjectLibrary\\DB\\DBConn.cs",
+              "RelativeDocumentMoniker": "ProjectLibrary\\DB\\DBConn.cs",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\ProjectLibrary\\DB\\DBConn.cs",
+              "RelativeToolTip": "ProjectLibrary\\DB\\DBConn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:52:04.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BusinessBase.cs",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\ProjectLibrary\\Base\\BusinessBase.cs",
+              "RelativeDocumentMoniker": "ProjectLibrary\\Base\\BusinessBase.cs",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\ProjectLibrary\\Base\\BusinessBase.cs",
+              "RelativeToolTip": "ProjectLibrary\\Base\\BusinessBase.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:51:47.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdmAnnoViewModel.cs",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Models\\AdmAnnoViewModel.cs",
+              "RelativeDocumentMoniker": "TeachAnnouncement\\Models\\AdmAnnoViewModel.cs",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Models\\AdmAnnoViewModel.cs",
+              "RelativeToolTip": "TeachAnnouncement\\Models\\AdmAnnoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:53:24.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "TeachAnnouncement\\Models\\BaseModel.cs",
+              "ToolTip": "D:\\Learns\\2019\\TeachAnnouncement\\TeachAnnouncement\\Models\\BaseModel.cs",
+              "RelativeToolTip": "TeachAnnouncement\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T07:51:41.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
